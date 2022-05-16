@@ -1,0 +1,1 @@
+execute "python2 jemdoc.py index.jemdoc" in the cmd 
