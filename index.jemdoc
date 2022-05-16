@@ -1,0 +1,60 @@
+# # jemdoc: menu{MENU}{index.html}, nofooter
+== 
+
+~~~
+{}{img_left}{photos/bio4.jpg}{alt text}{200px}{245px}
+Liwei Kou (寇立伟), Lecturer, Ph.D. \n
+College of Electrical and Power Engineering \n
+[http://www.tyut.edu.cn/ Taiyuan University of Technology] \n
+Address: No.79, Yingzexi Street, Taiyuan 310024, Shanxi, China \n
+Email: kouliwei@tyut.edu.cn liwei.kou@qq.com \n
+\[[https://scholar.google.com/citations?user=VI327O4AAAAJ&hl=en]\] \n
+~~~
+
+
+
+#at Baton Rouge, Louisiana, USA. (March 19, 2021)
+#at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
+
+#== News
+#- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
+#- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
+#- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
+#- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
+#- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
+#- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
+
+== About me
+I'm currently a Lecturer with the College of Electrical and Power Engineering, Taiyuan University of Technology. I got my Ph.D. in Electrical Engineering at Zhejiang University, under the guidance of Prof. [https://person.zju.edu.cn/jxiang  Ji Xiang]. My research focuses on multi-agent system, robot systems, autonomous underwater vehicles, and surface vehicles. 
+
+== Education 
+
+- Ph.D. in Electrical Engineering, Zhejiang University, Sept. 2015 - Jun. 2021
+- Visiting Student in School of Electrical Engineering and Computing, University of Newcastle, Australia, Nov. 2019 - Apr. 2020 
+- B.S. in Automation, Huazhong University of Science and Technology, Sept. 2011 - Jun. 2015
+
+== Publications 
+
+=== Journals
+
+- Shiming He, **Liwei Kou**, Yanjun Li and Ji Xiang, “Position tracking control of fully-actuated underwater vehicles with constrained attitude and velocities”, *IEEE Transactions on Industrial Electronics*. 2022, DOI: 10.1109/TIE.2022.3140516.
+- **Liwei Kou**, Zhiyong Chen and Ji Xiang, “Cooperative fencing control of multiple vehicles for a moving target with an unknown velocity”, *IEEE Transactions on Automatic Control*, 2022, 67(2): 1008-1015.
+- **Liwei Kou**, Yi Huang, Zhiyong Chen, Shiming He and Ji Xiang, “Cooperative fencing control of multiple second-order vehicles for a moving target with and without velocity measurements”, *International Journal of Robust and Nonlinear Control*, 2021, 31(10): 4602-4615.
+- Shiming He, **Liwei Kou**, Yanjun Li and Ji Xiang, “Robust orientation-sensitive trajectory tracking of underactuated autonomous underwater vehicles”, *IEEE Transactions on Industrial Electronics*. 2021, 68(9): 8464-8473.
+- **Liwei Kou**, Shiming he, Yanjun Li and Ji Xiang, “Constrained control allocation of a quadrotor-like autonomous underwater vehicle”, *Journal of Guidance, Control and Dynamics*. 2021, 44(3): 659-666.
+- **Liwei Kou**, Ji Xiang, Yanjun Li and Jingwei Bian, “Stability and nonlinear controllability analysis of a quadrotor-like autonomous underwater vehicle considering variety of cases”, *International Journal of Advanced Robotic
+  Systems*, 2018.
+
+=== Conferences
+
+- Haotian Wu, Shiming He, Zejun Deng, **Liwei Kou**, Kangwei Huang, Feiyang Suo, Ze Cao, “Fishery monitoring system with AUV based on YOLO and SGBM”, *IEEE 28th Chinese Control Conference*, 2019.
+- **Liwei Kou**, Ji Xiang and Jingwei Bian, “Controllability analysis of a quadrotor-like autonomous underwater
+  vehicle”. *IEEE 27th International Symposium on Industrial Electronics (ISIE)*, 2018.
+- **Liwei Kou**, Ji Xiang, Yanjun Li and Jingwei Bian, “Yaw angle tracking control for a quadrotor-like autonomous underwater vehicle using global fast terminal sliding mode control”, *IEEE CYBER*, 2018.
+- Wenbo Zhang, Yonggang Peng, Wei Wei and **Liwei Kou**, “Real-time conflict-free task assignment and path planning of multi-AGV system in intelligent warehousing”, *IEEE 27th Chinese Control Conference*, 2018.
+
+=== Chinese Papers
+
+- **Liwei Kou**, Ji Xiang. "Target fencing control of multiple mobile robots using output feedback linearization". *Acta Aumatic Sinica*, 2022, 48(5): 1285-1291.
+- **Liwei Kou**, Shiming He, Ji Xiang. "A square root cubature Kalman filter-based positioning algorithm for surface ships". *Shipbuilding of China*, 2020, 61(S01), 60-69.
+- Jingwei Bian, **Liwei Kou**, Ji Xiang. "Black-box modeling based on PSO and SVM for underwater vehicles". *Journal of Harbin Institute Of Technology*, 2019, 51(10): 55-60.
